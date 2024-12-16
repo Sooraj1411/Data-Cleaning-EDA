@@ -6,4 +6,4 @@
 - I personally did this project as I was keen to analyze the impact of COVID-19 on different Industry Sectors.
 
 ## *Dataset Information*
-    Link to dataset - [Dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
+Link to dataset - [Dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
