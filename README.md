@@ -8,12 +8,12 @@
 ## *Dataset Information*
 Link to dataset - [Dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
 _*COLUMNS/FIELDS in Dataset :*_ 
-      1. Comapny - The Comapny Name
-      2. Location - The City where the Comapny is located.
-      3. Industry - The Industry to which the Comapny belongs to.
-      4. total_laid_off - Total number of employees who were laid off by Company on a particular day at the particular location.
-      5. percentage_laid_off - Proportion of employees laid off in relation to the total workforce of a Company.
-      6. Date - The date when the Company laid off employees.
-      7. stage - Lifecycle stage of a company.
-      8. Country - The Countries where the Company is situated in.
-      9. funds_raised_millions - Funds raised by the Company in Millions.
+      1. Comapny - The Comapny Name.<br>
+      2. Location - The City where the Comapny is located.<br>
+      3. Industry - The Industry to which the Comapny belongs to.<br>
+      4. total_laid_off - Total number of employees who were laid off by Company on a particular day at the particular location.<br>
+      5. percentage_laid_off - Proportion of employees laid off in relation to the total workforce of a Company.<br>
+      6. Date - The date when the Company laid off employees.<br>
+      7. stage - Lifecycle stage of a company.<br>
+      8. Country - The Countries where the Company is situated in.<br>
+      9. funds_raised_millions - Funds raised by the Company in Millions.<br>
