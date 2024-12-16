@@ -32,8 +32,15 @@ _*COLUMNS/FIELDS in Dataset :*_ <br>
 ## *Steps Performed*
 _Outline the key steps I followed in this Project:_ <br>
 
-1. **Data Cleaning :**
+1. **Data Cleaning :** <br>
  (a). Remove Duplicates<br>
  (b). Standardize the Data<br>
  (c). Null Values and Blank Values<br>
  (d). Remove Any Column<br>
+
+2. **Exploratory Data Analysis(EDA) :** <br>
+ (a). Analyzed the data and identified companies with a layoff percentage of 1, indicating that they laid off entire workforce.<br>
+ (b). Analyzed the data to identify which comapny, industry, country and stage had the highest number of layoffs.<br>
+ (c). Analyzed the data to identify the specific months or years when the most layoffs took place with the help of rolling total.<br>
+ (d). Also analyzed the data around specific period when COVID-19 waves hit the world.<br>
+
