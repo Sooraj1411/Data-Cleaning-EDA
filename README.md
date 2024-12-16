@@ -19,3 +19,11 @@ _*COLUMNS/FIELDS in Dataset :*_ <br>
       7. stage - Lifecycle stage of a company.<br>
       8. Country - The Countries where the Company is situated in.<br>
       9. funds_raised_millions - Funds raised by the Company in Millions.<br>
+
+
+## *Project Goals*
+
+- Cleaning and preprocessing raw data for analysis.
+- Analyzing layoff trends over the three-year period.
+- Identifying the industries or locations most affected by layoffs.
+- Detecting seasonal trends or anomalies in layoffs.
