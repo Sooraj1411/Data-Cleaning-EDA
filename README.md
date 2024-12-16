@@ -47,9 +47,9 @@ _Outline the key steps I followed in this Project:_ <br>
 3. **INSIGHTS :** <br>
    (a). Out of almost 2000 companies, more that 100 companies laid off their entire workforce.<br>
    (b). Over the course of 3 years,In companies, industries, stages, countries -> Amazon, Consumer, Post-IPO and United States had the most laid offs.<br>
-   (c).In year 2022, the companies had most laid offs with more than 160k.<br>
-   (d). Google had the most laid offs (12k) at once in JAN 2021.<br>
-   (e). Despite having only 3 months of Data of 2023, the year 2023 had 2nd most laid offs with more than 125k which indicates that year 2023 will have the most laid offs since 2020.<br>
+   (c).The year 2022 saw the highest number of layoffs, with over 160k employees laid off.<br>
+   (d). Google had the most layoffs (12k) at once in January 2021.<br>
+   (e). Despite only having data for three months of 2023, the year already had the second-highest number of layoffs, with more than 125k employees. This indicates that 2023 is likely to surpass 2022 in total layoffs.<br>
 
 
 ## *Tools Used*
