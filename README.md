@@ -6,8 +6,8 @@
 - I personally did this project as I was keen to analyze the impact of COVID-19 on different Industry Sectors.
 
 ## *Dataset Information*
-Link to dataset - [Dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
-_*COLUMNS/FIELDS in Dataset :*_ 
+Link to dataset - [Dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022) <br>
+_*COLUMNS/FIELDS in Dataset :*_ <br>
       1. Comapny - The Comapny Name.<br>
       2. Location - The City where the Comapny is located.<br>
       3. Industry - The Industry to which the Comapny belongs to.<br>
