@@ -39,10 +39,10 @@ _Outline the key steps I followed in this Project:_ <br>
  (d). Remove Any Column<br>
 
 2. **Exploratory Data Analysis(EDA) :** <br>
- (a). Analyzed the data and identified companies with a layoff percentage of 1, indicating that they laid off entire workforce.<br>
- (b). Analyzed the data to identify which comapny, industry, country and stage had the highest number of layoffs.<br>
- (c). Analyzed the data to identify the specific months or years when the most layoffs took place with the help of rolling total.<br>
- (d). Also analyzed the data around specific period when COVID-19 waves hit the world.<br>
+ (a). Analyzed companies with a layoff percentage of 100%, indicating they laid off their entire workforce.<br>
+ (b). Identified companies, industries, countries, and stages with the highest number of layoffs.<br>
+ (c). Analyzed specific months or years with the highest number of layoffs using rolling totals.<br>
+ (d). Analyzed layoff trends during specific COVID-19 waves.<br>
 
 3. **INSIGHTS :** <br>
    (a). Out of almost 2000 companies, more that 100 companies laid off their entire workforce.<br>
