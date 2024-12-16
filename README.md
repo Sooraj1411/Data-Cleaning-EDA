@@ -27,3 +27,13 @@ _*COLUMNS/FIELDS in Dataset :*_ <br>
 - Analyzing layoff trends over the three-year period.
 - Identifying the industries or locations most affected by layoffs.
 - Detecting seasonal trends or anomalies in layoffs.
+
+
+## *Steps Performed*
+_Outline the key steps I followed in this Project:_ <br>
+
+1. **Data Cleaning :**
+ (a). Remove Duplicates<br>
+ (b). Standardize the Data<br>
+ (c). Null Values and Blank Values<br>
+ (d). Remove Any Column<br>
