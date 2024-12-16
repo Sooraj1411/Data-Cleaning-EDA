@@ -47,6 +47,21 @@ _Outline the key steps I followed in this Project:_ <br>
 3. **INSIGHTS :** <br>
    (a). Out of almost 2000 companies, more that 100 companies laid off their entire workforce.<br>
    (b). Over the course of 3 years,In companies, industries, stages, countries -> Amazon, Consumer, Post-IPO and United States had the most laid offs.<br>
-   (c).Year 2022, the companies had most laid offs with more than 160k.<br>
-   (d). Google had the most laid offs (12000) at once in JAN 2021.<br>
-   (e). Despite having only 3 months of Data of 2023, the year 2023 had 2nd most laid offs of more than 125k which indicates that year 2023 will have the most laid offs since 2020.<br>
+   (c).In year 2022, the companies had most laid offs with more than 160k.<br>
+   (d). Google had the most laid offs (12k) at once in JAN 2021.<br>
+   (e). Despite having only 3 months of Data of 2023, the year 2023 had 2nd most laid offs with more than 125k which indicates that year 2023 will have the most laid offs since 2020.<br>
+
+
+## *Tools Used*
+- Used Microsoft Excel for validating the data.
+- Used SQL for Data Cleaning & EDA.
+- Platform - MySQL.
+
+  ## *How to Use :*
+ Include instructions for someone who wants to replicate your work: <br>
+ - Download the [layoffs.csv](https://github.com/Sooraj1411/Data-Cleaning-EDA/blob/main/layoffs.csv) file provided in the project.
+ - Import the data in MySQL after creating a database.
+ - Run the [Data Cleaning Queries](https://github.com/Sooraj1411/Data-Cleaning-EDA/blob/main/Data%20Cleaning%20the%20layoff%20file.sql) and then [EDA](https://github.com/Sooraj1411/Data-Cleaning-EDA/blob/main/EDA.sql) queries to get desired outputs.
+
+## *Contact :*
+For any questions or feedback, please reach out to [suraj783856@gmail.com](mailto:suraj783856@gmail.com).
