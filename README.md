@@ -40,17 +40,17 @@ _Outline the key steps I followed in this Project:_ <br>
    + Remove Any Column
 
 3. **Exploratory Data Analysis(EDA) :** <br>
- (a). Analyzed companies with a layoff percentage of 100%, indicating they laid off their entire workforce.<br>
- (b). Identified companies, industries, countries, and stages with the highest number of layoffs.<br>
- (c). Analyzed specific months or years with the highest number of layoffs using rolling totals.<br>
- (d). Analyzed layoff trends during specific COVID-19 waves.<br>
+   + Analyzed companies with a layoff percentage of 100%, indicating they laid off their entire workforce.<br>
+   + Identified companies, industries, countries, and stages with the highest number of layoffs.<br>
+   + Analyzed specific months or years with the highest number of layoffs using rolling totals.<br>
+   + Analyzed layoff trends during specific COVID-19 waves.<br>
 
 4. **INSIGHTS :** <br>
-   (a). Out of almost 2000 companies, more that 100 companies laid off their entire workforce.<br>
-   (b). Over the course of 3 years,In companies, industries, stages, countries -> Amazon, Consumer, Post-IPO and United States had the most laid offs.<br>
-   (c).The year 2022 saw the highest number of layoffs, with over 160k employees laid off.<br>
-   (d). Google had the most layoffs (12k) at once in January 2021.<br>
-   (e). Despite only having data for three months of 2023, the year already had the second-highest number of layoffs, with more than 125k employees. This indicates that 2023 is likely to surpass 2022 in total layoffs.<br>
+   + Out of almost 2000 companies, more that 100 companies laid off their entire workforce.<br>
+   + Over the course of 3 years,In companies, industries, stages, countries -> Amazon, Consumer, Post-IPO and United States had the most laid offs.<br>
+   + The year 2022 saw the highest number of layoffs, with over 160k employees laid off.<br>
+   + Google had the most layoffs (12k) at once in January 2021.<br>
+   + Despite only having data for three months of 2023, the year already had the second-highest number of layoffs, with more than 125k employees. This indicates that 2023 is likely to surpass 2022 in total layoffs.<br>
 
 
 ## *Tools Used*
