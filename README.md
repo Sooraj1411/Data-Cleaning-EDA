@@ -33,19 +33,19 @@ _*COLUMNS/FIELDS in Dataset :*_ <br>
 ## *Steps Performed*
 _Outline the key steps I followed in this Project:_ <br>
 
-1. **Data Cleaning :** <br>
-      [x] Remove Duplicates<br>
-      [x]Standardize the Data<br>
- (c). Null Values and Blank Values<br>
- (d). Remove Any Column<br>
+1. **Data Cleaning :**
+   + Remove Duplicates
+   + Standardize the Data
+   + Null Values and Blank Values
+   + Remove Any Column
 
-2. **Exploratory Data Analysis(EDA) :** <br>
+3. **Exploratory Data Analysis(EDA) :** <br>
  (a). Analyzed companies with a layoff percentage of 100%, indicating they laid off their entire workforce.<br>
  (b). Identified companies, industries, countries, and stages with the highest number of layoffs.<br>
  (c). Analyzed specific months or years with the highest number of layoffs using rolling totals.<br>
  (d). Analyzed layoff trends during specific COVID-19 waves.<br>
 
-3. **INSIGHTS :** <br>
+4. **INSIGHTS :** <br>
    (a). Out of almost 2000 companies, more that 100 companies laid off their entire workforce.<br>
    (b). Over the course of 3 years,In companies, industries, stages, countries -> Amazon, Consumer, Post-IPO and United States had the most laid offs.<br>
    (c).The year 2022 saw the highest number of layoffs, with over 160k employees laid off.<br>
