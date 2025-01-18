@@ -34,8 +34,8 @@ _*COLUMNS/FIELDS in Dataset :*_ <br>
 _Outline the key steps I followed in this Project:_ <br>
 
 1. **Data Cleaning :** <br>
- (a). Remove Duplicates<br>
- (b). Standardize the Data<br>
+      [x] Remove Duplicates<br>
+      [x]Standardize the Data<br>
  (c). Null Values and Blank Values<br>
  (d). Remove Any Column<br>
 
